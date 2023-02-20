@@ -1,5 +1,12 @@
-### Hi there 👋
+![Myristica](myristica.jpg)
 
+<center>
+Open Source · Entreprenuership · Pay it forward · Do so ethically
+
+Press forward · Give them no quarter
+
+Boldly go · One foot in front of the other
+</center>
 <!--
 **MyristicaFragrans/MyristicaFragrans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
