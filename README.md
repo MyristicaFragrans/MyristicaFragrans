@@ -1,6 +1,6 @@
 ![Myristica](myristica.jpg)
 
-<p style="text-align: center;">
+<p align="center">
 Open Source · Entreprenuership · Pay it forward · Do so ethically<br/>
 Press forward · Give them no quarter<br/>
 Boldly go · One foot in front of the other
