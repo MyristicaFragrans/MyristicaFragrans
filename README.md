@@ -1,10 +1,20 @@
 ![Myristica](myristica.jpg)
 
-<p align="center">
-Open Source · Entreprenuership · Pay it forward · Do so ethically<br/>
-Press forward · Give them no quarter<br/>
-Boldly go · One foot in front of the other
-</p>
+<table>
+  <tr>
+    <td>  
+      <p align="center">
+        <a href="https://myristica.dev" target="_blank">Personal Website</a>
+      </p>
+      <p align="center">
+        <a href="https://incode-labs.com" target="_blank">Company Website</a>
+      </p>
+    </td>
+    <td>
+      Professional full-stack developer. Am I a senior developer at this point? An expert at Typescript? Do I know ReactJS better than average? Who knows! But people keep asking me to write more code, so that's a good sign.
+    </td>
+  </tr>
+</table>
 <!--
 **MyristicaFragrans/MyristicaFragrans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
